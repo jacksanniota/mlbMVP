@@ -1,2 +1,2 @@
-# snapple
+# spapple
 Apple music to spotify
